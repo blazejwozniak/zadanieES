@@ -1,0 +1,11 @@
+PATCH http://localhost:8080/configurations/1
+Content-Type: application/json
+
+{
+"configuration": "Nowa konfiguracja",
+"modificationDate": "2022-02-01T12:30:00"
+}
+
+
+###
+
